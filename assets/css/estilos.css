@@ -4,6 +4,11 @@ body {
 
 /* Hero Section */
 
+.logoana {
+  width: 7rem;
+  height: 8rem;
+}
+
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
