@@ -5,15 +5,19 @@ body {
 /* Hero Section */
 
 .logoana {
-  width: 7rem;
-  height: 8rem;
+  width:12rem;
+  height:4rem;
+
 }
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/anah.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:140rem;
   background-position: left;
+  height: 90rem;
+  width: auto;
+  font: family #707070; 
 }
 
 /* Mis trabajos */
